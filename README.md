@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emkayty
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning IBM Professional Data Science on Coursera
-- 💞️ I’m looking to collaborate on Data Science and machine learning projects
+- 👀 I’m interested in Full-Stack Web Engineering and Artificial Intelligence
+- 🌱 I’m currently learning IBM Full stack development
+- 💞️ I’m looking to collaborate on full-stack and machine learning projects
 - 📫 How to reach me on Whatsapp: +234 8032 887 033 or email: emkayty@gmail.com
 
 <!---
